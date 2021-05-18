@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/03/03.iml" filepath="$PROJECT_DIR$/03/03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/after/after.iml" filepath="$PROJECT_DIR$/04/demos/after/after.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/after/after1.iml" filepath="$PROJECT_DIR$/05/demos/after/after1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/demos/after/after2.iml" filepath="$PROJECT_DIR$/06/demos/after/after2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/arrays-collections-java-se-11.iml" filepath="$PROJECT_DIR$/.idea/arrays-collections-java-se-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04/demos/before/before.iml" filepath="$PROJECT_DIR$/04/demos/before/before.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05/demos/before/before1.iml" filepath="$PROJECT_DIR$/05/demos/before/before1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06/demos/before/before2.iml" filepath="$PROJECT_DIR$/06/demos/before/before2.iml" />
+    </modules>
+  </component>
+</project>
